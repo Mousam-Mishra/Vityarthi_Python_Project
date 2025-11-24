@@ -34,7 +34,6 @@ Status: Low for Laptop – Plug in charger soon
 Screenshots, project report PDF and flow diagrams are included separately in the documentation section.
 
 ## Developed By
-Student Name: ________________________  
-Class: XII – Computer Science  
-Academic Year: 2024–2025  
+Student Name: Mousam Mishra
+Registration no: 25BCE10773
 Project Title: Battery Life & Charging Time Predictor
